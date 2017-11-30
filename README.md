@@ -19,7 +19,8 @@ specifically for the mushrooming community. This prototype was built using Figma
 following tasks: accessing profile page; posting and responding to comments; browsing content; and
 creating a library entry.
 
-Files for the app are located in the "media" folder. Files include .png files of the individual frames for the app, along with the exported .fig file. 
+.png files of the individual frames for the app are located under the "spores (1)" folder. 
+The figma file is located at spore.fig
 
 The Figma file can be accessed here: https://www.figma.com/file/07PQYFGdnjnbFgHZUzYvWwjX/spore
 
