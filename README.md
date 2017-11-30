@@ -24,4 +24,5 @@ The figma file is located at spore.fig
 
 The Figma file can be accessed here: https://www.figma.com/file/07PQYFGdnjnbFgHZUzYvWwjX/spore
 
-The prototype video can be viewed here: 
+The prototype video can be viewed here: https://youtu.be/gy4fD-YSKyc
+
